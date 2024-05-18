@@ -1,0 +1,1 @@
+# egy-id-logo-remover
